@@ -14,8 +14,8 @@ In order to create a site skin, you need to have an AO3 account and you need to 
 
 # IMAGES
 
-![image](https://github.com/user-attachments/assets/51231eb4-96c5-4ac5-859e-be6f9cd3881d)
-![image](https://github.com/user-attachments/assets/cf96b938-35c5-41a2-a0cd-3b786a219fc9)
-![image](https://github.com/user-attachments/assets/edb5f311-abce-4c7d-a037-3158ec3b2da0)
+![image](https://github.com/user-attachments/assets/888ddf56-2ffd-4f71-85cc-b827dc22ec50)
+![image](https://github.com/user-attachments/assets/f6cc5a61-2691-4512-9c34-587a1fbb0af9)
+![image](https://github.com/user-attachments/assets/03598425-8849-4254-953a-a7ca7e32619c)
 
 
