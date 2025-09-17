@@ -230,6 +230,7 @@ li.blurb {
 }
 
 .actions a,
+.actions button,
 .actions a:link,
 .action,
 .action:link,
